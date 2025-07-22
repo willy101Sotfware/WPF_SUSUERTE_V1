@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 
 
-namespace WPFClinicaSanDiego.Domain
+namespace WPF_SUSUERTE_V1.Domain
 {
     public static class EventLogger
     {

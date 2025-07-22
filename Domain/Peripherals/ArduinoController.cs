@@ -5,9 +5,9 @@ using System.IO.Ports;
 using System.Linq;
 using System.Threading.Tasks;
 using WPF_SUSUERTE_V1.Domain.Peripherals.Acceptor;
-using WPFClinicaSanDiego.Domain.UIServices;
+using WPF_SUSUERTE_V1.Domain.UIServices;
 
-namespace WPFClinicaSanDiego.Domain.Peripherals
+namespace WPF_SUSUERTE_V1.Domain.Peripherals
 {
     internal static class ArduinoCommand
     {

@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace WPFClinicaSanDiego.Domain.Variables
+namespace WPF_SUSUERTE_V1.Domain.Variables
 {
     public static class Messages
     {

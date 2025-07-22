@@ -12,8 +12,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Markup;
 using System.Windows.Media;
-using WPFClinicaSanDiego.Domain.UIServices;
-using WPFClinicaSanDiego.Domain.Variables;
+using WPF_SUSUERTE_V1.Domain.UIServices;
+using WPF_SUSUERTE_V1.Domain.Variables;
 using Color = System.Drawing.Color;
 
 namespace WPF_SUSUERTE_V1.Domain.Peripherals.Printer

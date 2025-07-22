@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using WPF_SUSUERTE_V1.Domain.Utils.Variables;
-using WPFClinicaSanDiego.Domain;
+using WPF_SUSUERTE_V1.Domain;
 
 namespace HantleDispenserAPI
 {

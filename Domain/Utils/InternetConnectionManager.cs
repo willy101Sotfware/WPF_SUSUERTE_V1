@@ -2,11 +2,11 @@
 using System.Net.NetworkInformation;
 using System.Threading;
 using System.Threading.Tasks;
-using WPFClinicaSanDiego.Domain.UIServices;
-using WPFClinicaSanDiego.Domain.Variables;
-using WPFClinicaSanDiego.Modals;
+using WPF_SUSUERTE_V1.Domain.UIServices;
+using WPF_SUSUERTE_V1.Domain.Variables;
+using WPF_SUSUERTE_V1.Modals;
 
-namespace WPFClinicaSanDiego.Domain
+namespace WPF_SUSUERTE_V1.Domain
 {
     public static class InternetConnectionManager
     {

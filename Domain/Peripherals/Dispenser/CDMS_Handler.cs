@@ -4,7 +4,7 @@ using System.Data.SqlTypes;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WPFClinicaSanDiego.Domain;
+using WPF_SUSUERTE_V1.Domain;
 
 namespace HantleDispenserAPI
 {

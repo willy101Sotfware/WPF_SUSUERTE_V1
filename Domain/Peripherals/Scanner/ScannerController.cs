@@ -3,7 +3,7 @@ using System.IO.Ports;
 using System.Threading;
 using System.Windows.Media.Converters;
 
-namespace WPFClinicaSanDiego.Domain.Peripherals
+namespace WPF_SUSUERTE_V1.Domain.Peripherals
 {
     public delegate void ScannerDataReceivedHandler(string data);
     public delegate void ScannerErrorHandler(string error);
